@@ -1,0 +1,2 @@
+[![Pub](https://img.shields.io/pub/v/easy_getx_widget.svg)](https://pub.dev/packages/easy_getx_widget)
+[![Dev](https://img.shields.io/pub/v/easy_getx_widget.svg?label=dev&include_prereleases)](https://pub.dev/packages/easy_getx_widget)

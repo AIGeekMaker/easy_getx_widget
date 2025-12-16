@@ -1,0 +1,4 @@
+enum LoadType{
+  refresh,
+  loadMore,
+}
