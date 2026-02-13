@@ -1,0 +1,21 @@
+schema: spec-driven
+created: 2026-01-26
+title: EasyListController 继承 EasyRequestController
+status: ready-for-implementation
+
+artifacts:
+  - proposal.md
+  - tasks.md
+  - pbt-properties.md
+
+decisions:
+  architecture: generic-inheritance
+  compatibility: breaking-changes-allowed
+  fetch_exposure: fetch-equals-refreshData
+  empty_state: empty-list-not-null
+  hasMore_strategy: overridable
+  start_page: fixed-1
+
+constraints_resolved: 11
+pbt_properties: 10
+tasks: 5

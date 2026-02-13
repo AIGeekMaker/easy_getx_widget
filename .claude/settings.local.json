@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__dart-mcp-server__add_roots",
+      "mcp__dart-mcp-server__analyze_files",
+      "mcp__dart-mcp-server__run_tests",
+      "Bash(flutter test:*)",
+      "Bash(lcov:*)",
+      "Bash(openspec:*)",
+      "Bash(/Users/bibi/.claude/bin/codeagent-wrapper:*)",
+      "Bash(timeout 5 bash:*)",
+      "Bash(gemini --version:*)",
+      "Bash(dart analyze:*)"
+    ]
+  }
+}

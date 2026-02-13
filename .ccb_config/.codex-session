@@ -1,0 +1,22 @@
+{
+  "session_id": "ai-1768545521-11366",
+  "runtime_dir": "/var/folders/x3/sp4v7y8558xcs_9xhp2z12d80000gn/T/claude-ai-bibi/ai-1768545521-11366/codex",
+  "input_fifo": "/var/folders/x3/sp4v7y8558xcs_9xhp2z12d80000gn/T/claude-ai-bibi/ai-1768545521-11366/codex/input.fifo",
+  "output_fifo": "/var/folders/x3/sp4v7y8558xcs_9xhp2z12d80000gn/T/claude-ai-bibi/ai-1768545521-11366/codex/output.fifo",
+  "terminal": "tmux",
+  "tmux_session": null,
+  "pane_id": "%15",
+  "pane_title_marker": "CCB-Codex",
+  "tmux_log": "/var/folders/x3/sp4v7y8558xcs_9xhp2z12d80000gn/T/claude-ai-bibi/ai-1768545521-11366/codex/bridge_output.log",
+  "work_dir": "/Users/bibi/work/flutter/packages/easy_getx_widget",
+  "work_dir_norm": "/Users/bibi/work/flutter/packages/easy_getx_widget",
+  "start_dir": "/Users/bibi/work/flutter/packages/easy_getx_widget",
+  "active": true,
+  "started_at": "2026-01-16 14:38:41",
+  "start_cmd": "export PATH=/Users/bibi/.local/share/codex-dual/bin:'/Users/bibi/.local/bin:/Users/bibi/.local/bin:/Users/bibi/.bun/bin:/Users/bibi/.opencode/bin:/Users/bibi/.claude/bin:/Users/bibi/Library/Flutter/default/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Users/bibi/.local/bin:/Users/bibi/.bun/bin:/Users/bibi/.opencode/bin:/Users/bibi/.claude/bin:/Users/bibi/Library/Flutter/default/bin:/Users/bibi/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand:/Users/bibi/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli:/Users/bibi/Library/Flutter/versions/stable/bin/:/Users/bibi/Library/Android/sdk/tools:/Users/bibi/Library/Android/sdk/tools/bin:/Users/bibi/Library/Android/sdk/platform-tools:/Users/bibi/.pub-cache/bin:/Users/bibi/Library/Android/sdk/tools:/Users/bibi/Library/Android/sdk/tools/bin:/Users/bibi/Library/Android/sdk/platform-tools:/Users/bibi/.pub-cache/bin:/Users/bibi/.bun/bin'; codex -c=disable_paste_burst=true",
+  "updated_at": "2026-01-16 14:44:28",
+  "ended_at": "2026-01-16 12:10:15",
+  "codex_start_cmd": "codex resume 019bc587-1188-7ff2-846f-be163776b95c",
+  "codex_session_path": "/Users/bibi/.codex/sessions/2026/01/16/rollout-2026-01-16T14-38-42-019bc587-1188-7ff2-846f-be163776b95c.jsonl",
+  "codex_session_id": "019bc587-1188-7ff2-846f-be163776b95c"
+}
